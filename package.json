@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/klbjlabs/Konnect/issues"
   },
-  "homepage": "https://github.com/klbjlabs/Konnect#readme"
+  "homepage": "https://github.com/klbjlabs/Konnect#readme",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "commander-plus": "0.0.6"
+  }
 }
