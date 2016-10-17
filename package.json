@@ -1,0 +1,22 @@
+{
+  "name": "konnect",
+  "version": "1.0.0",
+  "description": "a ssh script for quick connect ssh server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klbjlabs/Konnect.git"
+  },
+  "keywords": [
+    "ssh"
+  ],
+  "author": "klbjlabs@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klbjlabs/Konnect/issues"
+  },
+  "homepage": "https://github.com/klbjlabs/Konnect#readme"
+}
